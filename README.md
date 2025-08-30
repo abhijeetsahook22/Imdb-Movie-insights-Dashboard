@@ -101,7 +101,7 @@ It serves as a quick reference tool for film enthusiasts, data analysts, and med
 
 ## 📝 Author
 
-👩‍💻 Prapti Mishra
+👩‍💻 Abhijeet Sahoo
 Dashboard developed using Tableau with insights derived from IMDB data.
 
 ---
